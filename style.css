@@ -42,7 +42,7 @@ html .navbar {
 
 .logo {
     max-width: 20%;
-    height:100%;
+    height: auto;
 }
 
 #facebook {
