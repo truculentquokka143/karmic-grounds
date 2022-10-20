@@ -42,7 +42,7 @@ html .navbar {
 
 .logo {
     max-width: 20%;
-    height: auto;
+    height:auto;
 }
 
 #facebook {
@@ -538,4 +538,8 @@ button:active {
     span.carousel-control-prev-icon {
         display: none;
     }
+    
+    span.carousel-control-next-icon {
+        display: none;
+    }   
 }
